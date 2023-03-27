@@ -1,0 +1,6 @@
+box2d-py==2.3.5
+gym==0.17.3
+ipykernel==6.20.2
+keras==2.11.0
+keras-rl2==1.0.5
+rl-agents==0.1.1
